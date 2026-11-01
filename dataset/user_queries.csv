@@ -1,0 +1,22 @@
+
+query_id,template_name,user_query
+1,General Assistant,What is Artificial Intelligence?
+2,General Assistant,What are the main types of AI?
+3,General Assistant,Explain machine learning.
+4,General Assistant,What is deep learning?
+5,Study Assistant,Explain neural networks with examples.
+6,Study Assistant,What is natural language processing?
+7,Study Assistant,Explain supervised learning.
+8,Study Assistant,What is data science?
+9,Programming Assistant,What is Python programming?
+10,Programming Assistant,Explain Python variables with examples.
+11,Programming Assistant,What are Python functions?
+12,Programming Assistant,Explain the difference between list and tuple.
+13,Exam Assistant,Write an answer about applications of AI.
+14,Exam Assistant,Explain the advantages of machine learning.
+15,Exam Assistant,What are the limitations of artificial intelligence?
+16,Exam Assistant,Explain the importance of prompt engineering.
+17,College Information,How can students improve their programming skills?
+18,College Information,What are the benefits of learning AI?
+19,College Information,How can students prepare for technical interviews?
+20,College Information,Why should computer science students learn Python?

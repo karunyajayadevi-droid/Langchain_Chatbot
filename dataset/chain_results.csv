@@ -1,0 +1,26 @@
+chain_name,input,output,timestamp
+Summarization Chain,"
+Artificial Intelligence is a technology that enables
+machines to perform tasks that normally require human
+intelligence. AI is used in education, healthcare,
+business, transportation and many other fields.
+It helps automate tasks, improve decision-making
+and increase productivity.
+","Here is a summary of the text in simple English:
+
+Artificial Intelligence (AI) is a technology that helps machines do things that humans usually do. It is used in many areas like education, healthcare, business, and transportation. AI can:
+
+* Automate tasks
+* Help make better decisions
+* Increase productivity",2026-11-01 14:01:00
+Question Answering Chain,What is LangChain and what are its main features?,"According to the given context, LangChain is a framework used to develop applications powered by large language models. Its main features include:
+
+1. Prompt templates: LangChain provides prompt templates, which are pre-defined templates to help developers craft effective prompts for their language models.
+
+2. Chains: LangChain introduces the concept of chains, which refers to a sequence of tasks or operations that need to be performed in a specific order. This allows developers to build modular AI applications.
+
+3. Integrations with different language models: LangChain provides integrations with various language models, making it easier for developers to incorporate these models into their applications.
+
+4. Modular AI applications: LangChain helps developers build modular AI applications, which means that different components of the application can be easily replaced or updated without affecting the entire application.
+
+These features enable developers to build scalable and maintainable AI applications using large language models.",2026-11-01 14:01:08
